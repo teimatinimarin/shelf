@@ -1,2 +1,4 @@
 # shelf
-Chef recipies
+
+TODO: Enter the cookbook description here.
+
