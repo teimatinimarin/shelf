@@ -4,6 +4,7 @@ maintainer_email 'tmarin@beuwa.com'
 license          'all_rights'
 description      'Installs/Configures development boxes'
 long_description 'Installs/Configures git'
-version          '0.2.0'
+version          '0.3.0'
 
 depends          'git',    '~> 4.1.0'
+depends          'chef-dk', '~> 3.0.0'
