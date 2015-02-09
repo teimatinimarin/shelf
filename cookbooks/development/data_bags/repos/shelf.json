@@ -1,0 +1,7 @@
+{
+  "id": "shelf",
+  "repo": "https://github.com/teimatinimarin/shelf.git",
+  "destination": "/home/vagrant/chef-repo",
+  "user": "vagrant",
+  "group": "vagrant"
+}
